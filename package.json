@@ -1,0 +1,19 @@
+{
+  "name": "hdcer-backend",
+  "version": "1.0.0",
+  "description": "Hdcer backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clear-console": "^1.1.0",
+    "csv-parse": "^5.5.3",
+    "csv-stringify": "^6.4.5",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.2"
+  }
+}
